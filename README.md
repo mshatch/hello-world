@@ -1,2 +1,3 @@
 # hello-world
-First time for everything.
+
+Aloha! Funny how things work out.
